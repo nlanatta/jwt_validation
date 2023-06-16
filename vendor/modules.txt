@@ -1,0 +1,16 @@
+# github.com/dgrijalva/jwt-go/v4 v4.0.0-preview1
+## explicit; go 1.12
+github.com/dgrijalva/jwt-go/v4
+# github.com/google/uuid v1.3.0
+## explicit
+github.com/google/uuid
+# github.com/gorilla/mux v1.8.0
+## explicit; go 1.12
+github.com/gorilla/mux
+# github.com/pkg/errors v0.9.1
+## explicit
+github.com/pkg/errors
+# golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+## explicit
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish

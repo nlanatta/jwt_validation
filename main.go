@@ -1,12 +1,3 @@
-# Middleware JWT validation
-Validate request with JWT
-Run the app:
-```
-./bin/run.sh
-```
-
-## Main example:
-```go
 package main
 
 import (
@@ -43,4 +34,3 @@ func main() {
 	}
 	server.RunServer()
 }
-```
